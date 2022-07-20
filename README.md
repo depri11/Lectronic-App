@@ -97,7 +97,7 @@ Frontend Lectronic [here](https://github.com/depri11/FE-Lectronics-App)
 <a href = "https://github.com/Irsad99/FE-Lectronics-App/graphs/contributors">
   <img src="https://avatars.githubusercontent.com/u/80185253?s=60&amp;v=4" class="avatar avatar-user" alt="calvinrahmat" width="38" height="38">
   <img src="https://avatars.githubusercontent.com/u/76877980?s=60&amp;v=4" class="avatar avatar-user" alt="Gustiana882" width="38" height="38">
-  <img src="https://avatars.githubusercontent.com/u/53255114?s=60&amp;v=4" class="avatar avatar-user" alt="firyal-salsa" width="38" height="38">
+  <img src="https://avatars.githubusercontent.com/u/38394430?s=60&amp;v=4" class="avatar avatar-user" alt="firyal-salsa" width="38" height="38">
 </a>
 
 <hr>
