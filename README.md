@@ -90,8 +90,8 @@ Lectronic App is an application for selling electronic devices. users can order 
    View the website at: http://localhost:3000
    ```
 
-## Backend Repository
-Backend API : Lectronic - Backend [here](https://github.com/depri11/Lectronic-App)
+## Frontend Repository
+Frontend Lectronic [here](https://github.com/depri11/FE-Lectronics-App)
 
 ### Contributors
 <a href = "https://github.com/Irsad99/FE-Lectronics-App/graphs/contributors">
