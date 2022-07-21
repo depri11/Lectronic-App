@@ -89,6 +89,8 @@ Lectronic App is an application for selling electronic devices. users can order 
    ```bash
    View the website at: http://localhost:3000
    ```
+## End Point
+You can see all end point [here](https://s.id/EndPointLectronic)
 
 ## Frontend Repository
 Frontend Lectronic [here](https://github.com/depri11/FE-Lectronics-App)
